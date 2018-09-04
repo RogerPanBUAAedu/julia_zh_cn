@@ -1,0 +1,7 @@
+﻿  hello world.cpp
+f:\program files\microsoft visual studio 14.0\vc\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+  f:\program files\microsoft visual studio 14.0\vc\include\sal.h(2866): note: 参见“__useHeader”的前一个定义
+f:\program files\microsoft visual studio 14.0\vc\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+  f:\program files\microsoft visual studio 14.0\vc\include\sal.h(2876): note: 参见“__on_failure”的前一个定义
+  demo.vcxproj -> E:\Git\julia_zh_cn_1\demo\Debug\demo.exe
+  demo.vcxproj -> E:\Git\julia_zh_cn_1\demo\Debug\demo.pdb (Partial PDB)
